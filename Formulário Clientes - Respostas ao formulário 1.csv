@@ -1,0 +1,10 @@
+Carimbo de data/hora,Nome do cliente,Departamento,Atendente tipo,Canal de atendimento,Motivo do atendimento,Tempo de espera em minutos,O problema foi resolvido?,Como você avalia o atendimento?
+21/08/2026 21:12:24,João,Financeiro,Carlos,E-mail,Dúvida,30,Sim,5
+21/08/2026 21:12:35,Maria,Financeiro,Carlos,Telefone,Dúvida,5,Sim,4
+21/08/2026 21:12:47,Lucas,Comercial,Carlos,E-mail,Dúvida,20,Parcialmente,4
+21/08/2026 21:13:02,Pedro,Suporte Técnico,Marcos,WhatsApp,Dúvida,10,Parcialmente,5
+21/08/2026 21:13:16,Luana,Suporte Técnico,Juliana,WhatsApp,Reclamação,10,Sim,5
+21/08/2026 21:13:28,Raissa,Recursos Humanos,Fernanda,Telefone,Solicitação,30,Não,2
+21/08/2026 21:17:26,Silva,Suporte Técnico,Carlos,Telefone,Reclamação,5,Sim,5
+21/08/2026 21:19:56,Hugo,Recursos Humanos,Fernanda,WhatsApp,Solicitação,20,Sim,5
+21/08/2026 21:21:16,Lucas,Financeiro,Ana,Presencial,Dúvida,5,Não,2
